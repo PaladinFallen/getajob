@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{getajob_villager_slot:1}"
+    }
+  ]
+  

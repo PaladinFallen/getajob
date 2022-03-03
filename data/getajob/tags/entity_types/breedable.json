@@ -1,0 +1,12 @@
+{
+	"description": "Mobs that can be forced to breed by players, triggering the minecraft:bred_animals advancement trigger, therefore not including villagers",
+	"values": [
+		"minecraft:cow",
+		"minecraft:goat",
+		"minecraft:mooshroom",
+		"minecraft:sheep",
+		"minecraft:pig",
+		"minecraft:chicken",
+		"minecraft:rabbit"
+	]
+}

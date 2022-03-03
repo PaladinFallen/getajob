@@ -1,0 +1,11 @@
+{
+	"description": "Horse-Like Mobs",
+	"values": [
+		"minecraft:donkey",
+		"minecraft:horse",
+		"minecraft:skeleton_horse",
+		"minecraft:mule",
+        "minecraft:pig",
+        "minecraft:strider"
+	]
+}
