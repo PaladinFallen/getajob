@@ -53,6 +53,8 @@ The shepherd takes care of his flock! Shepherds will use wheat, carrots, and see
 - Rabbit
 - Chicken
 
+Note that the shepherd needs the correct type of food to breed the corresponding mob. Wheat for cows, carrots for pigs, seeds for chickens, etc.
+
 They will also shear nearby sheep.
 
 ### *- Armorer, Weaponsmith, Toolsmith, Fletcher*
