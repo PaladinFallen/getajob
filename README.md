@@ -62,7 +62,7 @@ These "smithing" professions will, once a day, repair some of the durability of 
 
 For example, placing an pickaxe above a toolsmith's smithing table will cause him to repair it once a day.
 
-Repairing may take several days for high-durability items, but after an item has been repaired once, it will glow and not despawn until a player picks it up. You can check back after several days to retrieve your repaired gear!
+Fully repairing an item may take several days for high-durability items made out of netherite and diamond, but after an item has been repaired once, it will glow and not despawn until a player picks it up. You can check back after several days to retrieve your repaired gear!
 
 Each profession will only repair items related to their profession.
 
