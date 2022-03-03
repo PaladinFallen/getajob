@@ -25,7 +25,7 @@ Applicable Animals:
 Every few days, cartographers will give hints to nearby players about the location of nearby structures.
 
 ### *- Cleric*
-The cleric plays an important role in any community! They have 2 tasks they will perform regardless of time.
+The cleric plays an important role in any community! They have 2 tasks they will perform regardless of the time of day.
 
 The first is **blessing**. Whenever a player prays (sneaks) near a cleric, the cleric will remove msot negative effects, and will bestow conditional positive effects. For example, fire resistance if the player is on fire, slow falling if the player is falling, regeneration if the player is low, etc.
 
