@@ -1,7 +1,7 @@
 #professions/cartographer/rumor
 
 execute store result score @s getajob_temp1 run time query gametime
-scoreboard players operation @s getajob_temp1 %= $9 getajob_const
+scoreboard players operation @s getajob_temp1 %= $14 getajob_const
 
 execute if score @s getajob_temp1 matches 0 store result score @s getajob_temp2 run locate structure buried_treasure
 execute if score @s getajob_temp1 matches 1 store result score @s getajob_temp2 run locate structure desert_pyramid
