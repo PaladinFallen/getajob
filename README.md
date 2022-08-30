@@ -66,7 +66,7 @@ Fully repairing an item may take several days for high-durability items made out
 
 Each profession will only repair items related to their profession.
 
-### *- Nitwit (Work In Progress)*
+### *- Nitwit*
 Even when getting everyone in the village to pull their weight, there's always some stragglers! Nitwits are now mischievous pranksters. They'll run around the village launching fireworks, imitating players and mobs, and play all sorts of pranks during the work day.
 
 ## Installation
